@@ -30,5 +30,5 @@
 
 #### Name: [Rezha Ikhwan Hidayat](https://github.com/RezhaIkhwanH)
 - Place: Jogja, INDONESIA
-- Bio: Frontend Developer
+- Bio: -
 - GitHub: [RezhaIkhwanH](https://github.com/RezhaIkhwanH)
