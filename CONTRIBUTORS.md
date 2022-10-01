@@ -27,3 +27,8 @@
 - Place: Hydrabad, INDIA
 - Bio: Frontend Developer
 - GitHub: [Bubai91](https://github.com/Bubai91)
+
+#### Name: [Rezha Ikhwan Hidayat](https://github.com/RezhaIkhwanH)
+- Place: Jogja, INDONESIA
+- Bio: Frontend Developer
+- GitHub: [RezhaIkhwanH](https://github.com/RezhaIkhwanH)
